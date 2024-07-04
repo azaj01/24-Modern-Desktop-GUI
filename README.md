@@ -17,6 +17,11 @@ Next, install the custom widgets module from GitHub using pip:
 pip install QT-PyQt-PySide-Custom-Widgets
 ```
 
+Remember to also install PySide6, PyQt6,PySide2 or PyQt5(Recommended: PySide6 or PyQt6)
+```bash
+pip install PySide6
+```
+
 ## 3. Create a New Project
 Create a new PySide6 project using the custom widgets project maker command:
 ```bash
@@ -122,3 +127,10 @@ your_project_folder/dist/YourAppName.exe
 ```
 
 *Note*: Remember to copy other required static data files to your exe folder.
+
+## ☕️ Support My Work
+
+Hey there! If you enjoy my projects and find them helpful, consider buying me a coffee. Your support helps me keep going and create more awesome content! 😊
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.patreon.com/spinntv)
+
