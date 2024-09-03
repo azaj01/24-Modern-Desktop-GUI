@@ -1,4 +1,9 @@
 [![GitHub](https://img.shields.io/github/license/KhamisiKibet/24-Modern-Desktop-GUI?logo=Github)](https://github.com/KhamisiKibet/24-Modern-Desktop-GUI/blob/master/LICENSE) [![GitHub top language](https://img.shields.io/github/languages/top/KhamisiKibet/24-Modern-Desktop-GUI?logo=github)](https://github.com/KhamisiKibet/24-Modern-Desktop-GUI) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/KhamisiKibet/24-Modern-Desktop-GUI?logo=github)](https://github.com/KhamisiKibet/24-Modern-Desktop-GUI) [![GitHub issues](https://img.shields.io/github/issues/KhamisiKibet/24-Modern-Desktop-GUI?logo=github)](https://github.com/KhamisiKibet/24-Modern-Desktop-GUI/issues)
+![GitHub repo size](https://img.shields.io/github/repo-size/KhamisiKibet/24-Modern-Desktop-GUI)
+![GitHub stars](https://img.shields.io/github/stars/KhamisiKibet/24-Modern-Desktop-GUI?style=social)
+![GitHub forks](https://img.shields.io/github/forks/KhamisiKibet/24-Modern-Desktop-GUI?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/KhamisiKibet?style=social)](https://twitter.com/intent/follow?screen_name=KhamisiKibet)
+[![YouTube Video Views](https://img.shields.io/youtube/views/JK-B-CT34EU?style=social)](https://youtu.be/JK-B-CT34EU)
 
 ![24 modern desktop gui GIF](https://github.com/KhamisiKibet/Docs-QT-PyQt-PySide-Custom-Widgets/raw/main/images/24-modern-ui.gif)
 
